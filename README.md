@@ -16,7 +16,8 @@
 ## Current Focus
 
 - Java 기초 및 객체지향
-- Spring Boot 
+- Spring Boot
+- JPA & QueryDSL
 - 프로젝트 리팩토링
 
 ---
