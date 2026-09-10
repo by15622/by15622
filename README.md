@@ -38,23 +38,12 @@
 
 ## Tech Stack
 
-**Language**
-
-- Java
-
-**Framework**
-
-- Spring Boot
-- Spring Security
-- JPA
-- QueryDSL
-
-**Database**
-
-- PostgreSQL
-
-**Infrastructure**
-
-- Docker
-- AWS (EC2, ECS, ECR, RDS, S3)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
